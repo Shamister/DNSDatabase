@@ -1,5 +1,5 @@
 Description:
-Program to store DNS information into database.
+Program to store DNS information into database which implements B+ Tree as data struture.
 
 The program allow user to add .txt file which contains list of DNS information (domain followed by its IP address)
 and store them into database.
